@@ -1,7 +1,7 @@
 #Imports needed modules.
 import re
 
-#Defines the function in order to return the solution.
+#Defines the "move_zeros" function in order to return the solution.
 def move_zeros(array):
     
     #Converts "array" from a list into a string in order to work with the re.sub function.
